@@ -23,7 +23,7 @@
       "population": 380000,
       "location": "Antarctic Peninsula and the sub-Antarctic Islands",
       "conservation_status": "Near Threatened",
-      "weight": 4,
+      "weight": 4.0,
       "habitat": "Ice-free pebbled terrain near or on beaches",
       "photo_url": "https://a-z-animals.com/media/2022/09/shutterstock_1041523384-1536x922.jpg"
     },
@@ -50,7 +50,7 @@
       "population": 20000,
       "location": "Mexico, Central America, South America",
       "conservation_status": "Endangered",
-      "weight": 1,
+      "weight": 1.0,
       "habitat": "Rainforest and tropical jungle",
       "photo_url": "https://a-z-animals.com/media/2021/10/scarlet-macaw-1024x535.jpg"
     },
@@ -59,7 +59,7 @@
       "population": 1900000,
       "location": "North America",
       "conservation_status": "Least concerned",
-      "weight": 159664,
+      "weight": 0.34,
       "habitat": "Deep temperate cold region waters are preferred",
       "photo_url": "https://a-z-animals.com/media/2021/01/Pileated-woodpecker-against-tree.jpg"
     },
@@ -68,7 +68,7 @@
       "population": 16000000,
       "location": "Africa, Asia, Central America, Eurasia, Europe, and North America",
       "conservation_status": "Least concerned",
-      "weight": 1,
+      "weight": 1.0,
       "habitat": "Forests, deserts, coastal areas, and tundra across the Northern Hemisphere",
       "photo_url": "https://a-z-animals.com/media/2021/06/Common-Raven-pair.jpg"
     },
@@ -86,7 +86,7 @@
       "population": 1000000,
       "location": "Worldwide, especially the Tropics",
       "conservation_status": "Least concerned",
-      "weight": 1,
+      "weight": 1.0,
       "habitat": "Freshwater wetlands, lakes, and ponds",
       "photo_url": "https://a-z-animals.com/media/2019/11/Heron-hunting.jpg"
     }
